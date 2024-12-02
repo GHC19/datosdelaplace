@@ -1,2 +1,2 @@
 # datosdelaplace
-Repositorio para...
+Repositorio para el Máster de bioestadística UCM
